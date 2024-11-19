@@ -1,6 +1,6 @@
 
 <h1 align="center">
-          Technologist and Computer Engineering student at IUE.
+          Technologist and Computer Engineering student at <a href="https://www.iue.edu.co/">IUE</a>.
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
     </a>
 </p>
 
-I am a Computer Engineering student at the Institución Universitaria de Envigado, where I also earned my degree as a Technologist in IT Systems Development. I am passionate about telecommunications, technological infrastructure, cybersecurity, and frontend development, which I am currently learning and improving.
+I am a Computer Engineering student at the <a href="https://www.iue.edu.co/">Institución Universitaria de Envigado<a/>, where I also earned my degree as a Technologist in IT Systems Development. I am passionate about telecommunications, technological infrastructure, cybersecurity, and frontend development, which I am currently learning and improving.
 
 I am focused on developing my technical and creative skills to apply them efficiently and practically in future projects.
 
@@ -26,20 +26,6 @@ I am focused on developing my technical and creative skills to apply them effici
 
 <br>
 
-          
-
-<!--
-**SCatanoC/SCatanoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Find me at
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.santiago47c@gmail.com)](mailto:defcon.santiago47c@gmail.com)
 
