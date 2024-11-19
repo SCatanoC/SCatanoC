@@ -27,5 +27,5 @@ I am focused on developing my technical and creative skills to apply them effici
 <br>
 
 ### 📬 Find me at
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.santiago47c@gmail.com)](mailto:defcon.santiago47c@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santiago47c@gmail.com)](mailto:santiago47c@gmail.com)
 
