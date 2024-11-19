@@ -1,5 +1,7 @@
-## Hi there, I´m Santiago 👋
+## Hi there, I'm Santiago 👋
+I am a Computer Engineering student at the Institución Universitaria de Envigado, where I also earned my degree as a Technologist in IT Systems Development. I am passionate about telecommunications, technological infrastructure, cybersecurity, and frontend development, which I am currently learning and improving.
 
+I am focused on developing my technical and creative skills to apply them efficiently and practically in future projects.
 <!--
 **SCatanoC/SCatanoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
