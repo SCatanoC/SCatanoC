@@ -1,4 +1,14 @@
-## Hi there, I'm Santiago 👋
+
+<h1 align="center">
+          Technologist and Computer Engineering student at IUE.
+</h1>
+
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=45&pause=990&color=000000&background=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2CI'm+Santiago+%F0%9F%91%8B;Welcome+to+my+Github!" alt="Typing SVG" />
+    </a>
+</p>
+
 I am a Computer Engineering student at the Institución Universitaria de Envigado, where I also earned my degree as a Technologist in IT Systems Development. I am passionate about telecommunications, technological infrastructure, cybersecurity, and frontend development, which I am currently learning and improving.
 
 I am focused on developing my technical and creative skills to apply them efficiently and practically in future projects.
