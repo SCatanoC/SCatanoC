@@ -14,10 +14,8 @@ I am focused on developing my technical and creative skills to apply them effici
 <img align="left" alt="HTML" width="60px" style="padding-right:10px; " src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg">
 <img align="left" alt="HTML" width="40px"  src="https://github.com/user-attachments/assets/3d90fa55-2f65-4a2b-ba90-b72a783f7035">
 
+<br>
 
-
-
-         
           
 
 <!--
