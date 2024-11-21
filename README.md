@@ -1,6 +1,6 @@
 
 <h1 align="center">
-          Technologist and Computer Engineering student at <a href="https://www.iue.edu.co/">IUE</a>.
+          Technologist and Information Engineering student at <a href="https://www.iue.edu.co/">IUE</a>.
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
     </a>
 </p>
 
-I am a Computer Engineering student at the <a href="https://www.iue.edu.co/">Institución Universitaria de Envigado<a/>, where I also earned my degree as a Technologist in IT Systems Development. I am passionate about telecommunications, technological infrastructure, cybersecurity, and frontend development, which I am currently learning and improving.
+I am an Information Engineering student at the <a href="https://www.iue.edu.co/">Institución Universitaria de Envigado<a/>, where I also earned my degree as a Technologist in IT Systems Development. I am passionate about telecommunications, technological infrastructure, cybersecurity, and frontend development, which I am currently learning and improving.
 
 I am focused on developing my technical and creative skills to apply them efficiently and practically in future projects.
 
