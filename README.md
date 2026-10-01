@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,supabase,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,supabase" />
 </p>
 
 ---
@@ -16,27 +16,31 @@
 Information Engineer and Technologist in IT Systems Development from
 <a href="https://www.iue.edu.co/">Institución Universitaria de Envigado</a>.
 
-I work mainly on full-stack web applications, covering everything from database design and backend logic to frontend development, authentication, reporting, data imports and production support.
+I build and maintain full-stack applications, working across backend logic, databases, authentication, APIs, data processing, dashboards and frontend development.
 
-Currently, I also coordinate development work and support other developers in technical decisions, debugging and project organization.
-
----
-
-## Main stack
-
-`Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Tailwind CSS`
+I also coordinate development work and support technical decisions, debugging and project organization.
 
 ---
 
-## Experience
+## Core stack
 
-`Full-Stack Development` · `REST APIs` · `Database Design` · `Authentication` · `RBAC` · `Data Processing` · `Dashboards` · `Reporting` · `Refactoring` · `Production Support`
+`Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase`
 
 ---
 
-## Currently interested in
+## Tools & Technologies
 
-`Software Architecture` · `Backend Systems` · `AI Integrations` · `Automation` · `Robotics`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,vercel,git,github,linux,vscode,figma" />
+</p>
+
+`Resend` · `REST APIs` · `RBAC` · `Authentication` · `Data Processing` · `Reporting`
+
+---
+
+## Currently learning
+
+`.NET`
 
 ---
 
