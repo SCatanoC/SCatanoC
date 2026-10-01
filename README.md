@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Software Engineer · Full-Stack Developer</b><br/>
-  Building production web platforms with Next.js, TypeScript, PostgreSQL and Supabase.
+  Building and maintaining production platforms with modern web technologies.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,supabase,tailwind,python,docker,vercel,git,github,linux,vscode,figma" />
 </p>
 
 ---
@@ -16,31 +16,45 @@
 Information Engineer and Technologist in IT Systems Development from
 <a href="https://www.iue.edu.co/">Institución Universitaria de Envigado</a>.
 
-I build and maintain full-stack applications, working across backend logic, databases, authentication, APIs, data processing, dashboards and frontend development.
+I work across the full stack, from database design and backend logic to frontend development, authentication, integrations, data processing, reporting and production support.
 
 I also coordinate development work and support technical decisions, debugging and project organization.
 
 ---
 
-## Core stack
+## Tech
 
-`Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase`
+### Frontend & Application
+
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS`
+
+### Backend & Data
+
+`Node.js` · `PostgreSQL` · `Supabase` · `Python` · `REST APIs`
+
+### Infrastructure & Deployment
+
+`Docker` · `Vercel` · `Linux` · `Git` · `GitHub`
+
+### Services & Integrations
+
+`Supabase Auth` · `Supabase Storage` · `Resend` · `MFA / TOTP` · `RBAC` · `File Processing` · `CSV / XLSX Imports`
+
+### Development & Design
+
+`VS Code` · `Figma` · `Postman` · `GitHub Actions`
 
 ---
 
-## Tools & Technologies
+## What I've worked on
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,docker,vercel,git,github,linux,vscode,figma" />
-</p>
-
-`Resend` · `REST APIs` · `RBAC` · `Authentication` · `Data Processing` · `Reporting`
+`B2B Platforms` · `Dashboards` · `Authentication Systems` · `Role Management` · `Reporting` · `PDF Generation` · `Data Imports` · `Business Logic` · `Database Refactoring` · `API Integrations` · `Production Debugging`
 
 ---
 
-## Currently learning
+## Exploring next
 
-`.NET`
+`.NET` · `Software Architecture` · `AI Integrations` · `Automation` · `Robotics`
 
 ---
 
